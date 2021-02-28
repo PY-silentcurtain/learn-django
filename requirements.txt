@@ -1,0 +1,7 @@
+Django==2.2.7
+django-ckeditor==6.0.0
+django-js-asset==1.2.2
+mysqlclient @ file:///E:/pycharm/code/mysite_env/mysite/mysqlclient-1.4.6-cp37-cp37m-win_amd64.whl
+Pillow==8.0.1
+pytz==2020.4
+sqlparse==0.4.1
